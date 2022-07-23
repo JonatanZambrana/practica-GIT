@@ -7,5 +7,14 @@ segundo commit(02.07)
 segundo commit xd
 
 
+
 creando conflictos
+
+en la Segunda Clase aprendi que es un Git Log,Commit y Config 
+y tambien que es el Readme y markdown
+
+clase3
+aprendimos a crear ramas , un poco de flujos de trabajo, unir ramas y eliminarlas 
+como tambien solucionar conflictos con Fast Forward que no es lo indicado
+
 
