@@ -18,3 +18,6 @@ aprendimos a crear ramas , un poco de flujos de trabajo, unir ramas y eliminarla
 como tambien solucionar conflictos con Fast Forward que no es lo indicado
 
 
+clase 4 
+vimos maneras de solucionar conflictos con el --no-ff
+(espero que salga bien)
